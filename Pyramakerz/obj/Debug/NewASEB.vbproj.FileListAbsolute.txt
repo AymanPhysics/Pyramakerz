@@ -1,0 +1,246 @@
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\bin\Debug\NewASEB.exe.config
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Applicant.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Appreasal.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Attendance.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.BasicForm.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.BasicForm2.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.BasicForm3.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Branches.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Bundle.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.CallSaving.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.ChangePassword.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Charity.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Chat.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Cities.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.CloseForm.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.DirectBonusCut.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.DuplicationInReal.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.DurationTypes.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.EditAttendance.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.EditAttendancePerMonth.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Employees.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Evaluation.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Execuse.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.FinishingTasks.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Form1.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Form2.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Fund.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.GenerateInstallments.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.GetNonEvaluateStudents.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.GiveUpContract.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Groups.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.GroupsSearch.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.GroupsStudents.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Help.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.HelpFourColumns.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.HelpThreeColumns.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Income.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Installments.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.InstallmentsSearch.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Inventory.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.InventoryInitialBalance.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Items.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.LateInstractor.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Loans.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Login.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.MAIN.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Maintenance.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.MemberShips.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.MonthYear.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.MSG.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Resources.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.NLevels.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.OfficialHolidays.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Outcome.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PartnerLoans.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PCs.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PhoneIndex.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Placement.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PlacementExam.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PlacementLevels.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PlacementTest.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PreChat.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PreChat2.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PrintCarnaih.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Progress.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Promotions.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.PutInBank.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.ReLecture.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.ReportViewer.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Reservations.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT1.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT10.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT11.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT12.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT13.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT14.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT15.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT16.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT17.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT18.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT19.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT2.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT20.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT21.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT22.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT23.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT24.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT25.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT3.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT4.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT5.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT6.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT7.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT8.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.RPT9.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Screens.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SearchWaiting.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SetupCost.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Share.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.ShareMotion.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SingleForm.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SingleForm2.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SingleForm22.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SingleForm3.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Statics.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StSearch.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentLogin.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Students.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentsBundle.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentsBundleItems.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentsDegrees.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentsLevels.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.StudentsMemberships.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.SubIncome.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Table.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.TableBtn.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.Tasks.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.TransferStudents.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.UploadFiles.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.VirtualGroupsStudents.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.YearTarget.resources
+C:\Users\mr_ay\AppData\Local\Temporary Projects\NewASEB\obj\Debug\NewASEB.vbproj.GenerateResource.Cache
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\bin\Debug\NewASEB.exe.config
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.vbprojResolveAssemblyReference.cache
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Applicant.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Appreasal.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Attendance.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.BasicForm.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.BasicForm2.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.BasicForm3.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Branches.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Bundle.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.CallSaving.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.ChangePassword.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Charity.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Chat.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Cities.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.CloseForm.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.DirectBonusCut.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.DuplicationInReal.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.DurationTypes.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.EditAttendance.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.EditAttendancePerMonth.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Employees.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Evaluation.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Execuse.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.FinishingTasks.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Form1.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Form2.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Fund.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.GenerateInstallments.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.GetNonEvaluateStudents.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.GiveUpContract.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Groups.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.GroupsSearch.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.GroupsStudents.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Help.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.HelpFourColumns.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.HelpThreeColumns.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Income.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Installments.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.InstallmentsSearch.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Inventory.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.InventoryInitialBalance.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Items.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.LateInstractor.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Loans.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Login.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.MAIN.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Maintenance.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.MemberShips.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.MonthYear.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.MSG.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.NLevels.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.OfficialHolidays.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Outcome.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PartnerLoans.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PCs.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PhoneIndex.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Placement.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PlacementExam.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PlacementLevels.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PlacementTest.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PreChat.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PreChat2.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PrintCarnaih.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Progress.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Promotions.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.PutInBank.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.ReLecture.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.ReportViewer.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Reservations.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT1.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT10.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT11.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT12.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT13.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT14.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT15.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT16.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT17.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT18.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT19.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT2.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT20.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT21.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT22.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT23.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT24.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT25.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT3.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT4.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT5.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT6.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT7.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT8.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.RPT9.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Screens.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SearchWaiting.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SetupCost.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Share.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.ShareMotion.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SingleForm.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SingleForm2.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SingleForm22.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SingleForm3.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Statics.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StSearch.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentLogin.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Students.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentsBundle.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentsBundleItems.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentsDegrees.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentsLevels.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.StudentsMemberships.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.SubIncome.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Table.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.TableBtn.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Tasks.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.TransferStudents.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.UploadFiles.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.VirtualGroupsStudents.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.YearTarget.resources
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.vbproj.GenerateResource.Cache
+C:\Users\mr_ay\Documents\Visual Studio 2012\Projects\NewASEB\NewASEB\obj\Debug\NewASEB.Resources.resources
+F:\NewOneDrive\OneDrive\Desktop\NewASEB\NewASEB\bin\Debug\NewASEB.exe.config

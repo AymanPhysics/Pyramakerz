@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TomorrowLand
+</name>
+</assembly>
+<members>
+<member name="M:TomorrowLand.Placement.SetupCost_Load(System.Object,System.EventArgs)">
+	<summary>
+ Flag
+ 0 Placement
+ 1 Waiting
+ 2 Busy (student is in a group)
+ 
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ Income:              0→1
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ StudentMemberShip:   0→1
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ Groups:              1→2
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ Upgrade:             2→1
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ReFund:              1→0
+ ''''''''''''''''''''''''''''''''''''''''''''
+ ''''''''''''''''''''''''''''''''''''''''''''
+ 
+ </summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._1efg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._25519_102983073069014_100000719655288_79481_2325173_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._6bc3b_abstract_pink_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._False">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources._True">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.abstract_wallpapers_backgrounds_for_powerpoint">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.app_form_background_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.app_qDiz_cs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.application_vnd_stardivision_calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.application_vnd_sun_xml_calc_template">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.background_blur_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.calculator2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.CallSaver___Save_Money_on_08xx_Calls_IPA_Version_2_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.ddd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.dollar_sign">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.EFG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.evaluation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.evaluation_questions_rephrased">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.evaluation1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.expert_review_heuristic_analysis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.favicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.GM2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.hippo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.icon_students">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.images__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.images__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.indexContact_phone">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.iphone">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.item177036">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.lim">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Log_Out_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.login_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.loginLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.logout__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Logout__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.logout256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.MainOMEGA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.master03_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.naas_students">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.OffLine1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.OnLine">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.ooo_calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Opera_Background_Blue_Swirls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.original">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.phone_book">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.phone_directory">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Phone_Index_4062">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.picture_283">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.RBKkUsj5_excel2007logo_s_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Search_Magnifier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.simple_abstract_background_ai_vector_design_3379">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Small_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.spotinside_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.system_calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.tasks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.Tasks__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.TomorrowLand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TomorrowLand.My.Resources.Resources.TomorrowLand_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:TomorrowLand.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
