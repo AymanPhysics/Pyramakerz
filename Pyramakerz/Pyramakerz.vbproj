@@ -1,0 +1,1012 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF72133A-1D63-48E1-96BD-782DC827FA9B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pyramakerz.My.MyApplication</StartupObject>
+    <RootNamespace>Pyramakerz</RootNamespace>
+    <AssemblyName>Pyramakerz</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pyramakerz.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pyramakerz.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Pyramakerz.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.WMPLib">
+      <HintPath>F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\OMEGA\OMEGA\AxInterop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OMEGA\OMEGA\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OMEGA\OMEGA\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OMEGA\OMEGA\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WMPLib">
+      <HintPath>F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\OMEGA\OMEGA\Interop.WMPLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Applicant.Designer.vb">
+      <DependentUpon>Applicant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Applicant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appreasal.Designer.vb">
+      <DependentUpon>Appreasal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Appreasal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.Designer.vb">
+      <DependentUpon>Attendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForm.designer.vb">
+      <DependentUpon>BasicForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForm2.Designer.vb">
+      <DependentUpon>BasicForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForm3.Designer.vb">
+      <DependentUpon>BasicForm3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForm3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicMethods.vb" />
+    <Compile Include="Branches.Designer.vb">
+      <DependentUpon>Branches.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Branches.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bundle.Designer.vb">
+      <DependentUpon>Bundle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bundle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CallSaving.Designer.vb">
+      <DependentUpon>CallSaving.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CallSaving.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charity.Designer.vb">
+      <DependentUpon>Charity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Charity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat.Designer.vb">
+      <DependentUpon>Chat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cities.Designer.vb">
+      <DependentUpon>Cities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseForm.Designer.vb">
+      <DependentUpon>CloseForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CloseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdditionEligibility.Designer.vb">
+      <DependentUpon>AdditionEligibility.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdditionEligibility.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory2.Designer.vb">
+      <DependentUpon>Inventory2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Popup.Designer.vb">
+      <DependentUpon>Popup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Popup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT26.Designer.vb">
+      <DependentUpon>RPT26.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanBarcode.Designer.vb">
+      <DependentUpon>ScanBarcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScanBarcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirectBonusCut.Designer.vb">
+      <DependentUpon>DirectBonusCut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DirectBonusCut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DuplicationInReal.Designer.vb">
+      <DependentUpon>DuplicationInReal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DuplicationInReal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DurationTypes.Designer.vb">
+      <DependentUpon>DurationTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DurationTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAttendance.Designer.vb">
+      <DependentUpon>EditAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAttendancePerMonth.Designer.vb">
+      <DependentUpon>EditAttendancePerMonth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditAttendancePerMonth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees.Designer.vb">
+      <DependentUpon>Employees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Evaluation.Designer.vb">
+      <DependentUpon>Evaluation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Execuse.Designer.vb">
+      <DependentUpon>Execuse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Execuse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinishingTasks.Designer.vb">
+      <DependentUpon>FinishingTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FinishingTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fund.Designer.vb">
+      <DependentUpon>Fund.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fund.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerateInstallments.Designer.vb">
+      <DependentUpon>GenerateInstallments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GenerateInstallments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetNonEvaluateStudents.Designer.vb">
+      <DependentUpon>GetNonEvaluateStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GetNonEvaluateStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiveUpContract.Designer.vb">
+      <DependentUpon>GiveUpContract.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GiveUpContract.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Groups.Designer.vb">
+      <DependentUpon>Groups.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Groups.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupsSearch.Designer.vb">
+      <DependentUpon>GroupsSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GroupsSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupsStudents.Designer.vb">
+      <DependentUpon>GroupsStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GroupsStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.vb">
+      <DependentUpon>Help.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpFourColumns.Designer.vb">
+      <DependentUpon>HelpFourColumns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HelpFourColumns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpThreeColumns.Designer.vb">
+      <DependentUpon>HelpThreeColumns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HelpThreeColumns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Income.Designer.vb">
+      <DependentUpon>Income.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Income.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Installments.Designer.vb">
+      <DependentUpon>Installments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Installments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstallmentsSearch.Designer.vb">
+      <DependentUpon>InstallmentsSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InstallmentsSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.vb">
+      <DependentUpon>Inventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryInitialBalance.Designer.vb">
+      <DependentUpon>InventoryInitialBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryInitialBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.vb">
+      <DependentUpon>Items.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LateInstractor.Designer.vb">
+      <DependentUpon>LateInstractor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LateInstractor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loans.Designer.vb">
+      <DependentUpon>Loans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN.Designer.vb">
+      <DependentUpon>MAIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance.Designer.vb">
+      <DependentUpon>Maintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberShips.Designer.vb">
+      <DependentUpon>MemberShips.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MemberShips.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="MonthYear.Designer.vb">
+      <DependentUpon>MonthYear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MonthYear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MSG.Designer.vb">
+      <DependentUpon>MSG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MSG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NLevels.Designer.vb">
+      <DependentUpon>NLevels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NLevels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OfficialHolidays.Designer.vb">
+      <DependentUpon>OfficialHolidays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OfficialHolidays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Outcome.Designer.vb">
+      <DependentUpon>Outcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Outcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartnerLoans.Designer.vb">
+      <DependentUpon>PartnerLoans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PartnerLoans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCs.Designer.vb">
+      <DependentUpon>PCs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PCs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneIndex.Designer.vb">
+      <DependentUpon>PhoneIndex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneIndex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Placement.Designer.vb">
+      <DependentUpon>Placement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Placement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlacementExam.Designer.vb">
+      <DependentUpon>PlacementExam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PlacementExam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlacementLevels.Designer.vb">
+      <DependentUpon>PlacementLevels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PlacementLevels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlacementTest.Designer.vb">
+      <DependentUpon>PlacementTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PlacementTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreChat.Designer.vb">
+      <DependentUpon>PreChat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PreChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreChat2.Designer.vb">
+      <DependentUpon>PreChat2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PreChat2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCarnaih.Designer.vb">
+      <DependentUpon>PrintCarnaih.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCarnaih.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Progress.Designer.vb">
+      <DependentUpon>Progress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Progress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Promotions.Designer.vb">
+      <DependentUpon>Promotions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Promotions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PutInBank.Designer.vb">
+      <DependentUpon>PutInBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PutInBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReLecture.Designer.vb">
+      <DependentUpon>ReLecture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReLecture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer.Designer.vb">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservations.Designer.vb">
+      <DependentUpon>Reservations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reservations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT1.Designer.vb">
+      <DependentUpon>RPT1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT10.Designer.vb">
+      <DependentUpon>RPT10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT11.Designer.vb">
+      <DependentUpon>RPT11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT12.Designer.vb">
+      <DependentUpon>RPT12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT13.Designer.vb">
+      <DependentUpon>RPT13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT14.Designer.vb">
+      <DependentUpon>RPT14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT15.Designer.vb">
+      <DependentUpon>RPT15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT16.Designer.vb">
+      <DependentUpon>RPT16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT17.Designer.vb">
+      <DependentUpon>RPT17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT18.Designer.vb">
+      <DependentUpon>RPT18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT19.Designer.vb">
+      <DependentUpon>RPT19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT2.Designer.vb">
+      <DependentUpon>RPT2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT20.Designer.vb">
+      <DependentUpon>RPT20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT21.Designer.vb">
+      <DependentUpon>RPT21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT22.Designer.vb">
+      <DependentUpon>RPT22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT23.Designer.vb">
+      <DependentUpon>RPT23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT24.Designer.vb">
+      <DependentUpon>RPT24.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT25.Designer.vb">
+      <DependentUpon>RPT25.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT25.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT3.Designer.vb">
+      <DependentUpon>RPT3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT4.Designer.vb">
+      <DependentUpon>RPT4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT5.Designer.vb">
+      <DependentUpon>RPT5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT6.Designer.vb">
+      <DependentUpon>RPT6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT7.Designer.vb">
+      <DependentUpon>RPT7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT8.Designer.vb">
+      <DependentUpon>RPT8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT9.Designer.vb">
+      <DependentUpon>RPT9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPT9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens.Designer.vb">
+      <DependentUpon>Screens.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchWaiting.Designer.vb">
+      <DependentUpon>SearchWaiting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchWaiting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetupCost.Designer.vb">
+      <DependentUpon>SetupCost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetupCost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Share.Designer.vb">
+      <DependentUpon>Share.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Share.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShareMotion.Designer.vb">
+      <DependentUpon>ShareMotion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShareMotion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleForm.Designer.vb">
+      <DependentUpon>SingleForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SingleForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleForm2.Designer.vb">
+      <DependentUpon>SingleForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SingleForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleForm22.Designer.vb">
+      <DependentUpon>SingleForm22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SingleForm22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleForm3.Designer.vb">
+      <DependentUpon>SingleForm3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SingleForm3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statics.Designer.vb">
+      <DependentUpon>Statics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StSearch.Designer.vb">
+      <DependentUpon>StSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentLogin.Designer.vb">
+      <DependentUpon>StudentLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students.Designer.vb">
+      <DependentUpon>Students.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Students.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentsBundle.Designer.vb">
+      <DependentUpon>StudentsBundle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsBundle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentsBundleItems.Designer.vb">
+      <DependentUpon>StudentsBundleItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsBundleItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentsDegrees.Designer.vb">
+      <DependentUpon>StudentsDegrees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsDegrees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentsLevels.Designer.vb">
+      <DependentUpon>StudentsLevels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsLevels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentsMemberships.Designer.vb">
+      <DependentUpon>StudentsMemberships.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsMemberships.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubIncome.Designer.vb">
+      <DependentUpon>SubIncome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubIncome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table.Designer.vb">
+      <DependentUpon>Table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableBtn.Designer.vb">
+      <DependentUpon>TableBtn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TableBtn.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tasks.Designer.vb">
+      <DependentUpon>Tasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransferStudents.Designer.vb">
+      <DependentUpon>TransferStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransferStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadFiles.Designer.vb">
+      <DependentUpon>UploadFiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualGroupsStudents.Designer.vb">
+      <DependentUpon>VirtualGroupsStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualGroupsStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearTarget.Designer.vb">
+      <DependentUpon>YearTarget.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YearTarget.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdditionEligibility.resx">
+      <DependentUpon>AdditionEligibility.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups.resx">
+      <DependentUpon>Groups.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupsStudents.resx">
+      <DependentUpon>GroupsStudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory2.resx">
+      <DependentUpon>Inventory2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN.resx">
+      <DependentUpon>MAIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlacementExam.resx">
+      <DependentUpon>PlacementExam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlacementTest.resx">
+      <DependentUpon>PlacementTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup.resx">
+      <DependentUpon>Popup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreChat2.resx">
+      <DependentUpon>PreChat2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanBarcode.resx">
+      <DependentUpon>ScanBarcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchWaiting.resx">
+      <DependentUpon>SearchWaiting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table.resx">
+      <DependentUpon>Table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks.resx">
+      <DependentUpon>Tasks.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="Pyramakerz.ico" />
+    <None Include="Resources\Pyramakerz - icon.jpg" />
+    <None Include="Resources\Pyramakerz 1.jpg" />
+    <None Include="Resources\True.jpg" />
+    <None Include="Resources\False.jpg" />
+    <None Include="Resources\tasks.jpg" />
+    <None Include="Resources\Tasks %281%29.jpg" />
+    <None Include="Resources\system-calc.png" />
+    <None Include="Resources\spotinside_icon.png" />
+    <None Include="Resources\Small Logo.jpg" />
+    <None Include="Resources\simple-abstract-background-ai-vector-design-3379.jpg" />
+    <None Include="Resources\Search Magnifier.png" />
+    <None Include="Resources\RBKkUsj5-excel2007logo-s-.png" />
+    <None Include="Resources\picture-283.jpg" />
+    <None Include="Resources\Phone-Index-4062.jpg" />
+    <None Include="Resources\phone_directory.jpg" />
+    <None Include="Resources\phone_book.png" />
+    <None Include="Resources\original.png" />
+    <None Include="Resources\Opera-Background-Blue-Swirls.jpg" />
+    <None Include="Resources\ooo_calc.png" />
+    <None Include="Resources\OnLine.jpg" />
+    <None Include="Resources\OffLine.jpg" />
+    <None Include="Resources\OffLine.bmp" />
+    <None Include="Resources\naas_students.png" />
+    <None Include="Resources\master03_background.jpg" />
+    <None Include="Resources\MainOMEGA.jpg" />
+    <None Include="Resources\Log-Out-icon.png" />
+    <None Include="Resources\logout256.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\Logout %282%29.png" />
+    <None Include="Resources\logout %281%29.png" />
+    <None Include="Resources\logo1.ico" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\loginLogo.jpg" />
+    <None Include="Resources\login_logo.gif" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\lim.png" />
+    <None Include="Resources\item177036.gif" />
+    <None Include="Resources\iphone.jpg" />
+    <None Include="Resources\indexContact_phone.gif" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\images %283%29.jpg" />
+    <None Include="Resources\images %282%29.jpg" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\image303.jpg" />
+    <None Include="Resources\image30.jpg" />
+    <None Include="Resources\icon_students.png" />
+    <None Include="Resources\hippo1.gif" />
+    <None Include="Resources\GM2.jpg" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\expert_review_heuristic_analysis.png" />
+    <None Include="Resources\evaluation.png" />
+    <None Include="Resources\evaluation.jpg" />
+    <None Include="Resources\evaluation questions rephrased.bmp" />
+    <None Include="Resources\EFG.png" />
+    <None Include="Resources\EFG.ico" />
+    <None Include="Resources\dollar-sign.png" />
+    <None Include="Resources\ddd.ico" />
+    <None Include="Resources\CallSaver - Save Money on 08xx Calls IPA Version 2.0.jpg" />
+    <None Include="Resources\calculator2.png" />
+    <None Include="Resources\calc.png" />
+    <None Include="Resources\background-blur-1.jpg" />
+    <None Include="Resources\ASEB_pagenumber.001.png" />
+    <None Include="Resources\ASEB.jpg" />
+    <None Include="Resources\ASEB.gif" />
+    <None Include="Resources\app-qDiz.cs.png" />
+    <None Include="Resources\application_vnd_sun_xml_calc_template.png" />
+    <None Include="Resources\application_vnd_stardivision_calc.png" />
+    <None Include="Resources\app_form_background_11.jpg" />
+    <None Include="Resources\abstract-wallpapers-backgrounds-for-powerpoint.jpg" />
+    <None Include="Resources\41817_24072510971_2470_n.jpg" />
+    <None Include="Resources\25519_102983073069014_100000719655288_79481_2325173_n.jpg" />
+    <None Include="Resources\23267_102133646496514_5148_n.jpg" />
+    <None Include="Resources\6bc3b_abstract-pink-background.jpg" />
+    <None Include="Resources\3.ico" />
+    <None Include="Resources\1efg.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
